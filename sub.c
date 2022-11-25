@@ -1,6 +1,6 @@
 #include <arithmetic.h>
 
-int sub(int a, int b)
+int sub(int a, int b, int k)
 {
-    return a-b;
+    return a-b-k;
 }
