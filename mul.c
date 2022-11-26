@@ -1,6 +1,6 @@
 include <arithmetic.h>
 
-int mul(int a, int b,int c)
+int mul(int a, int b,int d)
 {
-    return a*b*c;
+    return a*b*d;
 }
