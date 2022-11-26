@@ -8,14 +8,14 @@ int main(int argc, char *argv[])
     int b = atoi(argv[2]);
     int c = atoi(argc[3]);
 
-    printf("<===============>\n");
-    printf("<===============>\n");
-    printf("<===============>\n");
-    printf("<===============>\n");
+    printf("+<===============>+\n");
+    printf("+<===============>+\n");
+    printf("+<===============>+\n");
+    printf("+<===============>+\n");
     printf("%d + %d => %d\n", a, b, add(a, b));
     printf("%d - %d => %d\n", a, b, sub(a, b,c));
     printf("%d * %d => %d\n", a, b, mul(a, b));
-    printf("%d / %d => %d\n", a, b, dur(a, b,c));
+    printf("%d / %d => %d\n", a, b, dur(a, b,));
     printf("===============\n");
 
     return 0;
