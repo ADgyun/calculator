@@ -1,6 +1,6 @@
 include <arithmetic.h>
 
-int dur(int a, int b,int c, int d)
+int dur(int a, int b,int d, int e)
 {
-    return (a+b)/(c+d);
+    return (a+b)/(d+e)
 }
