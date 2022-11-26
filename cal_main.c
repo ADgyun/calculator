@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
     int b = atoi(argv[2]);
     int c = atoi(argv[3]);
 
-    printf("+<===============>+\n");
+    printf("+================>+\n");
     printf("+<===============>+\n");
     printf("+<===============>+\n");
     printf("+<===============>+\n");
